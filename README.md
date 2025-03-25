@@ -33,8 +33,14 @@ $ pip install pika
 
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
-
+```bash
+python producer.py
+```
  ![sdb_004](https://github.com/Qshar1408/sdb_04/blob/main/img/sdb_04_002.png)
+
+ ```bash
+python consumer.py
+```
  ![sdb_004](https://github.com/Qshar1408/sdb_04/blob/main/img/sdb_04_003.png)
 ---
 
