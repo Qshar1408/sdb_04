@@ -33,6 +33,9 @@ $ pip install pika
 
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
+
+ ![sdb_004](https://github.com/Qshar1408/sdb_04/blob/main/img/sdb_04_002.png)
+ ![sdb_004](https://github.com/Qshar1408/sdb_04/blob/main/img/sdb_04_003.png)
 ---
 
 ### Задание 3. Подготовка HA кластера
